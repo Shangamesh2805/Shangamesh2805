@@ -15,9 +15,9 @@
 - 💬 Ask me about **Learning Data Science with hands-on experience in Machine learning, Predictive Modelling, Clustering, Time Series Forecasting, Natural Language Processing, Programming Languages such as Python, Data Visualization tools such as Power BI.**
 
 
-- 📄 Know about my experiences [Shangameshwar K Resume](https://jayaprakash-shanmugam.com/resume)
+- 📄 Know about my experiences [Shangameshwar K Resume]([https://Shangamesh2805.com/resume](https://www.linkedin.com/in/shangameshwar-k-186509212/))
 
-- ⚡ Fun fact **I think I am learning**
+- Fun fact **I Cherish🪄 to learning new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
