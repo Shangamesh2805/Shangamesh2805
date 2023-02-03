@@ -2,7 +2,7 @@
 <h1 align="center">Hi 🤞, I'm Shangameshwar k</h1>
 <h3 align="center">Aspiring Artificial Intelligence & Data Science Engineer | Machine Learning and Neural Networks | Learning with Python and Embedded Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shangameshwar K&label=Profile%20views&color=0e75b6&style=flat" alt="Shangameshwar K" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shangameshwar K&label=Profile%20views&color=0e75b6&style=flat" alt="Shangameshwar2805" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shangameshwar2805" alt="Shangameshwar K" /></a> </p>
 
