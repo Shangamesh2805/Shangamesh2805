@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="330" src="https://Shangameshwar K.com/assets/github.gif">
 - 🌱 I’m currently learning **Artificial Intelligence Technologies**
 
-- 👨‍💻 All of my projects are available at [Shangameshwar K's Projects](https://Shangameshwar K.com)
+- 👨‍💻 All of my projects are available at [Shangameshwar K's Projects]([https://Shangameshwar K.com](https://github.com/Shangamesh2805?tab=repositories))
 
 
 - 💬 Ask me about **Learning Data Science with hands-on experience in Machine learning, Predictive Modelling, Clustering, Time Series Forecasting, Natural Language Processing, Programming Languages such as Python, Data Visualization tools such as Power BI.**
