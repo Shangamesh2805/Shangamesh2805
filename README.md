@@ -6,7 +6,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shangamesh2805" alt="Shangameshwar K" /></a> </p>
 
-<p align="center"> <a href="[https://twitter.com/Shangameshwar K](https://twitter.com/shangameshwar)" target="blank"><img src="https://img.shields.io/twitter/follow/Shangameshwar K?logo=twitter&style=for-the-badge" alt="Shangameshwar K" /></a> </p>
+<p align="center"> <a href="[https://twitter.com/Shangameshwar K](https://
+  .com/shangameshwar)" target="blank"><img src="https://img.shields.io/twitter/follow/Shangameshwar K?logo=twitter&style=for-the-badge" alt="Shangameshwar K" /></a> </p>
 - 🌱 I’m currently learning **Artificial Intelligence Technologies**
 
 - 👨‍💻 All of my projects are available at [Shangameshwar K's Projects]([https://Shangameshwar K.com](https://github.com/Shangamesh2805?tab=repositories))
@@ -23,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/Shangameshwar K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shangameshwar K" height="30" width="40" /></a>
 <a href="https://kaggle.com/Shangameshwar K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Shangameshwar K" height="30" width="40" /></a>
-<a href="https://twitter.com/Shangameshwar K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shangameshwar K" height="30" width="40" /></a>
+<a href="https://twitter.com/Shangameshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shangameshwar K" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Shangameshwar K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shangameshwar K" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/Shangameshwar K" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Shangameshwar K" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Shangameshwar K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Shangameshwar Km" height="30" width="40" /></a>
