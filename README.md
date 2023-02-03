@@ -12,7 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [Shangameshwar K's Projects](https://Shangameshwar K.com)
 
-- 📝 I regularly write articles on [Shangameshwar K's Blogs](https://Shangameshwar K.com/blog)
 
 - 💬 Ask me about **Learning Data Science with hands-on experience in Machine learning, Predictive Modelling, Clustering, Time Series Forecasting, Natural Language Processing, Programming Languages such as Python, Data Visualization tools such as Power BI.**
 
