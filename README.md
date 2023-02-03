@@ -1,4 +1,7 @@
 ![MasterHead](https://github.com/Shangamesh2805/Shangamesh2805/blob/main/Cover_pic.png)
+
+<br>
+
 <h1 align="center">Hi 🤞, I'm Shangameshwar k</h1>
 <h3 align="center">Aspiring Artificial Intelligence & Data Science Engineer | Machine Learning and Neural Networks | Learning with Python and Embedded Systems</h3>
 
