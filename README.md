@@ -1,39 +1,61 @@
 ![MasterHead](https://github.com/Shangamesh2805/Shangamesh2805/blob/main/Cover_pic.png)
-<h1 align="center">Hi 🤞, I'm Shangameshwar k</h1>
-<h3 align="center">Aspiring Artificial Intelligence & Data Science Engineer | Machine Learning and Neural Networks | Learning with Python and Embedded Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shangamesh2805&label=Profile%20views&color=0e75b6&style=flat" alt="Shangamesh2805" /> </p>
+<h1 align="center">Hi 👋, I'm Shangameshwar K</h1>
+<h3 align="center">DevOps Engineer | Azure Certified | Cloud & Infrastructure Automation | ServiceNow System Admin Certified</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shangamesh2805" alt="Shangameshwar K" /></a> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Shangamesh2805&label=Profile%20views&color=0e75b6&style=flat" alt="Shangamesh2805" /> 
+</p>
 
-<p align="center"> <a href="[https://twitter.com/Shangameshwar K](https://
-  .com/shangameshwar)" target="blank"><img src="https://img.shields.io/twitter/follow/Shangameshwar K?logo=twitter&style=for-the-badge" alt="Shangameshwar K" /></a> </p>
-- 🌱 I’m currently learning **Artificial Intelligence Technologies**
+---
 
-- 👨‍💻 All of my projects are available at [Shangameshwar K's Projects]([https://Shangameshwar K.com](https://github.com/Shangamesh2805?tab=repositories))
+### 🚀 About Me  
+- 🌐 **DevOps Engineer** with hands-on experience in **Azure & AWS Cloud, Infrastructure as Code (Terraform, ARM), and CI/CD (Azure DevOps, GitHub Actions)**.  
+- 🛠 Skilled in **Python scripting, FinOps automation, Kubernetes, and container orchestration**.  
+- ☁️ Passionate about **building scalable cloud-native infrastructure, automating workflows, and optimizing costs**.  
+- 📄 Know more about my experiences [LinkedIn](https://www.linkedin.com/in/shangameshwar-k-186509212/)  
 
+---
 
-- 💬 Ask me about **Learning Data Science with hands-on experience in Machine learning, Predictive Modelling, Clustering, Time Series Forecasting, Natural Language Processing, Programming Languages such as Python, Data Visualization tools such as Power BI.**
+### 🔧 Tech Stack  
 
+**Cloud & DevOps**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+![ServiceNow](https://img.shields.io/badge/ServiceNow-1BB55C?style=for-the-badge&logo=servicenow&logoColor=white)  
 
-- 📄 Know about my experiences [Shangameshwar K Resume]([https://Shangamesh2805.com/resume](https://www.linkedin.com/in/shangameshwar-k-186509212/))
+**Languages & Scripting**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
 
-- Fun fact **I Cherish🪄 to learning new things**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 📌 Featured Projects  
+- **Azure Infra Automation** – Built **multi-env Azure infrastructure** using **Terraform** and integrated with **Azure DevOps pipelines** for automated provisioning and deployments.  
+- **FinOps Cost Optimization** – Developed **Python scripts** to monitor Azure cost usage, generate automated cost reports, and enforce resource governance policies.  
+- **Kubernetes Migration** – Migrated workloads from **AWS EKS to Azure AKS**, improving scalability and deployment resilience.  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shangamesh2805&show_icons=true&theme=tokyonight" alt="Shangameshwar GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shangamesh2805&theme=tokyonight" alt="Shangameshwar GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/shangameshwar-k-186509212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shangameshwar K" height="30" width="40" /></a>
-<a href="https://kaggle.com/Shangameshwark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Shangameshwar K" height="30" width="40" /></a>
-<a href="https://twitter.com/Shangameshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shangameshwar K" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Shangameshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shangameshwar K" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/Shangamesh_28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Shangameshwar K" height="30" width="40" /></a>
-
-
-<!--<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>-->
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shangamesh2805&show_icons=true&locale=en" alt="Shangamesh2805" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shangamesh2805&" alt="Shangamesh2805" /></p>
+<a href="https://linkedin.com/in/shangameshwar-k-186509212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Shangameshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://github.com/Shangamesh2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+</p>
