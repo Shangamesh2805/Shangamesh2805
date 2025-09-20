@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Shangamesh2805/Shangamesh2805/blob/main/Cover_pic.png)
+![MasterHead](https://github.com/Shangamesh2805/Shangamesh2805/blob/main/cover_pic.png)
 
 <h1 align="center">Hi 👋, I'm Shangameshwar K</h1>
 <h3 align="center">DevOps Engineer | Azure Certified | Cloud & Infrastructure Automation | ServiceNow System Admin Certified</h3>
